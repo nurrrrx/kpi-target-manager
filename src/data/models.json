@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "name": "Atto3",
+    "category": "BYD KSA"
+  },
+  {
+    "id": 2,
+    "name": "HAN",
+    "category": "BYD KSA"
+  },
+  {
+    "id": 3,
+    "name": "Qin-Plus",
+    "category": "BYD KSA"
+  },
+  {
+    "id": 4,
+    "name": "Seal",
+    "category": "BYD KSA"
+  },
+  {
+    "id": 5,
+    "name": "Song-Plus",
+    "category": "BYD KSA"
+  },
+  {
+    "id": 6,
+    "name": "300S",
+    "category": "Chrysler"
+  },
+  {
+    "id": 7,
+    "name": "Durango",
+    "category": "Dodge"
+  },
+  {
+    "id": 8,
+    "name": "Accord",
+    "category": "Honda"
+  },
+  {
+    "id": 9,
+    "name": "Accord Hybrid",
+    "category": "Honda"
+  },
+  {
+    "id": 10,
+    "name": "CR-V",
+    "category": "Honda"
+  },
+  {
+    "id": 11,
+    "name": "City",
+    "category": "Honda"
+  },
+  {
+    "id": 12,
+    "name": "Civic",
+    "category": "Honda"
+  },
+  {
+    "id": 13,
+    "name": "Civic Type R",
+    "category": "Honda"
+  },
+  {
+    "id": 14,
+    "name": "HA",
+    "category": "Honda"
+  },
+  {
+    "id": 15,
+    "name": "HR-V",
+    "category": "Honda"
+  },
+  {
+    "id": 16,
+    "name": "Odyssey",
+    "category": "Honda"
+  },
+  {
+    "id": 17,
+    "name": "Pilot",
+    "category": "Honda"
+  },
+  {
+    "id": 18,
+    "name": "ZR-V",
+    "category": "Honda"
+  },
+  {
+    "id": 19,
+    "name": "Grand Cherokee",
+    "category": "Jeep"
+  },
+  {
+    "id": 20,
+    "name": "Grand Cherokee L",
+    "category": "Jeep"
+  },
+  {
+    "id": 21,
+    "name": "Grand Wagoneer",
+    "category": "Jeep"
+  },
+  {
+    "id": 22,
+    "name": "Wrangler 2 Door",
+    "category": "Jeep"
+  },
+  {
+    "id": 23,
+    "name": "Wrangler 4 Door",
+    "category": "Jeep"
+  },
+  {
+    "id": 24,
+    "name": "ES",
+    "category": "Lexus"
+  },
+  {
+    "id": 25,
+    "name": "ES HYBRID",
+    "category": "Lexus"
+  },
+  {
+    "id": 26,
+    "name": "ES Hybrid",
+    "category": "Lexus"
+  },
+  {
+    "id": 27,
+    "name": "IS",
+    "category": "Lexus"
+  },
+  {
+    "id": 28,
+    "name": "LC500 Convertible",
+    "category": "Lexus"
+  },
+  {
+    "id": 29,
+    "name": "LS",
+    "category": "Lexus"
+  },
+  {
+    "id": 30,
+    "name": "LS Hybrid",
+    "category": "Lexus"
+  },
+  {
+    "id": 31,
+    "name": "LX",
+    "category": "Lexus"
+  },
+  {
+    "id": 32,
+    "name": "LX HYBRID",
+    "category": "Lexus"
+  },
+  {
+    "id": 33,
+    "name": "Lx Hybrid",
+    "category": "Lexus"
+  },
+  {
+    "id": 34,
+    "name": "NX",
+    "category": "Lexus"
+  },
+  {
+    "id": 35,
+    "name": "NX HYBRID",
+    "category": "Lexus"
+  },
+  {
+    "id": 36,
+    "name": "NX Hybrid",
+    "category": "Lexus"
+  },
+  {
+    "id": 37,
+    "name": "RC",
+    "category": "Lexus"
+  },
+  {
+    "id": 38,
+    "name": "RC F",
+    "category": "Lexus"
+  },
+  {
+    "id": 39,
+    "name": "RX",
+    "category": "Lexus"
+  },
+  {
+    "id": 40,
+    "name": "RX HYBRID",
+    "category": "Lexus"
+  },
+  {
+    "id": 41,
+    "name": "RX Hybrid",
+    "category": "Lexus"
+  },
+  {
+    "id": 42,
+    "name": "UX",
+    "category": "Lexus"
+  },
+  {
+    "id": 43,
+    "name": "UX HYBRID",
+    "category": "Lexus"
+  },
+  {
+    "id": 44,
+    "name": "UX Hybrid",
+    "category": "Lexus"
+  },
+  {
+    "id": 45,
+    "name": "Polestar 2",
+    "category": "POLESTAR"
+  },
+  {
+    "id": 46,
+    "name": "Polestar 3",
+    "category": "POLESTAR"
+  },
+  {
+    "id": 47,
+    "name": "Polestar 4",
+    "category": "POLESTAR"
+  },
+  {
+    "id": 48,
+    "name": "RAM 1500",
+    "category": "RAM"
+  },
+  {
+    "id": 49,
+    "name": "All",
+    "category": "Stellantis"
+  },
+  {
+    "id": 50,
+    "name": "DT 1500",
+    "category": "Stellantis"
+  },
+  {
+    "id": 51,
+    "name": "Durango",
+    "category": "Stellantis"
+  },
+  {
+    "id": 52,
+    "name": "Grand Cherokee",
+    "category": "Stellantis"
+  },
+  {
+    "id": 53,
+    "name": "Wrangler",
+    "category": "Stellantis"
+  },
+  {
+    "id": 54,
+    "name": "All",
+    "category": "Toyota"
+  },
+  {
+    "id": 55,
+    "name": "C-HR Hybrid  4x2",
+    "category": "Toyota"
+  },
+  {
+    "id": 56,
+    "name": "C-HR Hybrid 4x2",
+    "category": "Toyota"
+  },
+  {
+    "id": 57,
+    "name": "CAMRY HYBRID",
+    "category": "Toyota"
+  },
+  {
+    "id": 58,
+    "name": "CAMRY SEDAN",
+    "category": "Toyota"
+  },
+  {
+    "id": 59,
+    "name": "COROLLA",
+    "category": "Toyota"
+  },
+  {
+    "id": 60,
+    "name": "COROLLA CROSS",
+    "category": "Toyota"
+  },
+  {
+    "id": 61,
+    "name": "COROLLA CROSS HYBRID",
+    "category": "Toyota"
+  },
+  {
+    "id": 62,
+    "name": "COROLLA HYBRID",
+    "category": "Toyota"
+  },
+  {
+    "id": 63,
+    "name": "CROWN",
+    "category": "Toyota"
+  },
+  {
+    "id": 64,
+    "name": "Camry Hybrid",
+    "category": "Toyota"
+  },
+  {
+    "id": 65,
+    "name": "Camry Sedan",
+    "category": "Toyota"
+  },
+  {
+    "id": 66,
+    "name": "Corolla",
+    "category": "Toyota"
+  },
+  {
+    "id": 67,
+    "name": "Corolla Cross",
+    "category": "Toyota"
+  },
+  {
+    "id": 68,
+    "name": "Corolla Cross Hybrid",
+    "category": "Toyota"
+  },
+  {
+    "id": 69,
+    "name": "Corolla Hybrid",
+    "category": "Toyota"
+  },
+  {
+    "id": 70,
+    "name": "Crown",
+    "category": "Toyota"
+  },
+  {
+    "id": 71,
+    "name": "FORTUNER",
+    "category": "Toyota"
+  },
+  {
+    "id": 72,
+    "name": "Fortuner",
+    "category": "Toyota"
+  },
+  {
+    "id": 73,
+    "name": "GR86",
+    "category": "Toyota"
+  },
+  {
+    "id": 74,
+    "name": "GRANVIA",
+    "category": "Toyota"
+  },
+  {
+    "id": 75,
+    "name": "HIACE",
+    "category": "Toyota"
+  },
+  {
+    "id": 76,
+    "name": "HIGHLANDER HEV",
+    "category": "Toyota"
+  },
+  {
+    "id": 77,
+    "name": "HILUX 4X2 DOUBLE CAB",
+    "category": "Toyota"
+  },
+  {
+    "id": 78,
+    "name": "HILUX 4X4 DOUBLE CAB",
+    "category": "Toyota"
+  },
+  {
+    "id": 79,
+    "name": "HILUX 4X4 SINGLE CAB",
+    "category": "Toyota"
+  },
+  {
+    "id": 80,
+    "name": "Hiace",
+    "category": "Toyota"
+  },
+  {
+    "id": 81,
+    "name": "Highlander HEV",
+    "category": "Toyota"
+  },
+  {
+    "id": 82,
+    "name": "Hilux 4X4 double cab",
+    "category": "Toyota"
+  },
+  {
+    "id": 83,
+    "name": "Hilux 4x2 Double cab",
+    "category": "Toyota"
+  },
+  {
+    "id": 84,
+    "name": "Hilux 4x2 single cab",
+    "category": "Toyota"
+  },
+  {
+    "id": 85,
+    "name": "Hilux 4x4 single cab",
+    "category": "Toyota"
+  },
+  {
+    "id": 86,
+    "name": "INNOVA HYBRID",
+    "category": "Toyota"
+  },
+  {
+    "id": 87,
+    "name": "Innova Hybrid",
+    "category": "Toyota"
+  },
+  {
+    "id": 88,
+    "name": "LC P/U",
+    "category": "Toyota"
+  },
+  {
+    "id": 89,
+    "name": "LC S/W",
+    "category": "Toyota"
+  },
+  {
+    "id": 90,
+    "name": "LC S/W Hybrid",
+    "category": "Toyota"
+  },
+  {
+    "id": 91,
+    "name": "PRADO",
+    "category": "Toyota"
+  },
+  {
+    "id": 92,
+    "name": "Prado",
+    "category": "Toyota"
+  },
+  {
+    "id": 93,
+    "name": "RAIZE",
+    "category": "Toyota"
+  },
+  {
+    "id": 94,
+    "name": "RAV4",
+    "category": "Toyota"
+  },
+  {
+    "id": 95,
+    "name": "RAV4 HYBRID",
+    "category": "Toyota"
+  },
+  {
+    "id": 96,
+    "name": "RAV4 Hybrid",
+    "category": "Toyota"
+  },
+  {
+    "id": 97,
+    "name": "RUSH",
+    "category": "Toyota"
+  },
+  {
+    "id": 98,
+    "name": "Raize",
+    "category": "Toyota"
+  },
+  {
+    "id": 99,
+    "name": "Rush",
+    "category": "Toyota"
+  },
+  {
+    "id": 100,
+    "name": "SUPRA",
+    "category": "Toyota"
+  },
+  {
+    "id": 101,
+    "name": "Supra",
+    "category": "Toyota"
+  },
+  {
+    "id": 102,
+    "name": "URBAN CRUISER",
+    "category": "Toyota"
+  },
+  {
+    "id": 103,
+    "name": "Urban Cruiser",
+    "category": "Toyota"
+  },
+  {
+    "id": 104,
+    "name": "VELOZ",
+    "category": "Toyota"
+  },
+  {
+    "id": 105,
+    "name": "Veloz",
+    "category": "Toyota"
+  },
+  {
+    "id": 106,
+    "name": "YARIS SEDAN",
+    "category": "Toyota"
+  },
+  {
+    "id": 107,
+    "name": "Yaris Sedan",
+    "category": "Toyota"
+  },
+  {
+    "id": 108,
+    "name": "All",
+    "category": "Volvo"
+  },
+  {
+    "id": 109,
+    "name": "EX30",
+    "category": "Volvo"
+  },
+  {
+    "id": 110,
+    "name": "S60",
+    "category": "Volvo"
+  },
+  {
+    "id": 111,
+    "name": "S90",
+    "category": "Volvo"
+  },
+  {
+    "id": 112,
+    "name": "XC40",
+    "category": "Volvo"
+  },
+  {
+    "id": 113,
+    "name": "XC60",
+    "category": "Volvo"
+  },
+  {
+    "id": 114,
+    "name": "XC90",
+    "category": "Volvo"
+  }
+]
